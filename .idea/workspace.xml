@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PlayerPing-1.12" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32af76e2-61c3-403e-9169-e01b079117be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YkL4FdN1WXbBJOvjU5CanN9AsE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../新端/CatServer.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32af76e2-61c3-403e-9169-e01b079117be" name="Default Changelist" comment="" />
+      <created>1583481452251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583481452251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="183" key="#Project_Structure" timestamp="1583668934575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="190" y="183" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583668934575" />
+    <state x="694" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583481853037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583481853037" />
+    <state x="755" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1583598440077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583598440077" />
+    <state x="867" y="212" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583652768757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="867" y="212" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583652768757" />
+    <state x="288" y="327" key="FileChooserDialogImpl" timestamp="1583652799850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="288" y="327" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583652799850" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1583668991670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583668991670" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583668468714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583668468714" />
+    <state x="334" y="130" key="new project wizard" timestamp="1583668605106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583668605106" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlayerPing">
+    <output-path>$PROJECT_DIR$/../../测试服务端-1.15/plugins</output-path>
+    <root id="archive" name="PlayerPing.jar">
+      <element id="module-output" name="PlayerPing" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

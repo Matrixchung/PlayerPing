@@ -1,0 +1,11 @@
+name: PlayerPing
+main: com.matrix.PlayerPing.main
+author: Matrixchung
+version: 0.1
+commands:
+  ping:
+    usage: /ping <player>
+    aliases: [pings]
+    description: "§2获取指定玩家的Ping值,不填默认获取本人的Ping."
+    permission: playerping.ping
+    permission-message: "§c你没有权限获取Ping值!"
